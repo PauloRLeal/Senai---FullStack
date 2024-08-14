@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "4WY0aHvveZXaQUzBoUYPb9toH3NQ7BGp10zX58EQTHc=",
+  "Source": "Projeto Web-Lh Pets versão 1",
+  "BasePath": "_content/Projeto Web-Lh Pets versão 1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Projeto Web-Lh Pets versão 1\\wwwroot",
+      "Source": "Projeto Web-Lh Pets versão 1",
+      "ContentRoot": "C:\\Users\\Paulo\\Documents\\Senai\\Senai-FullStack\\Codificação Back-End - 10b - SP3 - Atividade 2 - Projeto Web LH-Pets\\Projeto Web-Lh Pets versão 1\\wwwroot\\",
+      "BasePath": "_content/Projeto Web-Lh Pets versão 1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Paulo\\Documents\\Senai\\Senai-FullStack\\Codificação Back-End - 10b - SP3 - Atividade 2 - Projeto Web LH-Pets\\Projeto Web-Lh Pets versão 1\\wwwroot\\index.html",
+      "SourceId": "Projeto Web-Lh Pets versão 1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Paulo\\Documents\\Senai\\Senai-FullStack\\Codificação Back-End - 10b - SP3 - Atividade 2 - Projeto Web LH-Pets\\Projeto Web-Lh Pets versão 1\\wwwroot\\",
+      "BasePath": "_content/Projeto Web-Lh Pets versão 1",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
